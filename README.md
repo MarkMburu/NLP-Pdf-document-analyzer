@@ -1,5 +1,5 @@
 # PDf Document Analyzer
-This projects takes in a pdf document and analyzes the words in that document.
+This projects takes in a pdf document and analyzes the words in that document.Its a web-app and it is built with streamlit that makes it easy to build beautiful custom web-apps for machine learning and data science
 # Installation instructions
 ## Please follow the below instructions to be able to run this tool.
 1.	Download/clone the tool from the github repo.
